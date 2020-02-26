@@ -1,12 +1,11 @@
 # ldm-orm-parent
 手写orm框架
 
-# ldm-orm-parent
-手写orm框架
-
 ### Mybatis动态sql原理
-    mybatis的动态sql，是基于OGNL表达式，供使用者能够更灵活的控制sql的拼接，以达到许多我们需要大量代码才能实现的功能，大大减少了我们编写代码的工作量。
 
+ 
+
+mybatis的动态sql，是基于OGNL表达式，供使用者能够更灵活的控制sql的拼接，以达到许多我们需要大量代码才能实现的功能，大大减少了我们编写代码的工作量。
 常用的动态sql标签：
 	choose（when，otherwise）
 	trim
